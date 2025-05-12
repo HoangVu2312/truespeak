@@ -94,8 +94,9 @@ const Home = () => {
         </div>
 
         {/* strengths */}
+        {/* strengths */}
         <div
-          className="strengths bg-white text-dark rounded shadow d-flex justify-content-between align-items-center px-4 py-3"
+          className="strengths bg-white text-dark rounded shadow d-flex justify-content-between align-items-center px-4 py-3 d-none d-md-flex"
         >
           {[
             {
@@ -120,7 +121,7 @@ const Home = () => {
               style={{
                 flex: 1,
                 borderRight: idx !== arr.length - 1 ? '1px solid #ddd' : 'none',
-                minHeight: '120px'
+                minHeight: '120px',
               }}
             >
               <img
@@ -142,14 +143,15 @@ const Home = () => {
           ))}
         </div>
 
+
       </div>
 
 
       {/* Bio Section */}
       <div className="container mt-5 px-5">
-        <div className="row d-flex" style={{ minHeight: "600px" }} >
+        <div className="row d-flex mt-5" style={{ minHeight: "600px" }} >
           {/* Isabella Row */}
-          <div className="d-flex align-items-center">
+          <div className="row d-flex align-items-center">
             <div className="col-md-8 px-5 ">
               <h2 style={{ color: '#014aad' }}>Gặp Isabella Ahola</h2>
               <p>
@@ -163,7 +165,7 @@ const Home = () => {
                 cũng có thể thoải mái luyện nói và phát triển.
               </p>
             </div>
-            <div className="col-md-4 text-center py-5 bg-warning rounded-top" style={{ minHeight: "100%" }}>
+            <div className="col-md-4 text-center py-5 bg-warning rounded-top">
               <img
                 src={teacher1}
                 alt="Isabella Ahola"
@@ -176,7 +178,7 @@ const Home = () => {
           </div>
 
           {/* Hoang Row */}
-          <div className="d-flex align-items-center ">
+          <div className="row d-flex align-items-center ">
             <div className="col-md-8 px-5">
               <h2 style={{ color: '#014aad' }}>Gặp Hoàng Vũ</h2>
               <p>
@@ -190,7 +192,7 @@ const Home = () => {
                 tâm, năng lượng và mong muốn đưa tiếng Anh trở thành một phần tự nhiên trong cuộc sống hàng ngày.
               </p>
             </div>
-            <div className="col-md-4 text-center py-5 bg-warning rounded-bottom" style={{ minHeight: "100%" }}>
+            <div className="col-md-4 text-center py-5 bg-warning rounded-bottom" >
               <img
                 src={teacher2}
                 alt="Hoang Vu"
