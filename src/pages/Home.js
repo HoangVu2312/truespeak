@@ -155,14 +155,17 @@ const Home = () => {
             <div className="col-md-8 px-5 ">
               <h2 style={{ color: '#014aad' }}>Gặp Isabella Ahola</h2>
               <p>
-                Xin chào!
-                Mình là người bản ngữ đến từ Phần Lan và từng tốt nghiệp Thạc sĩ tại Đại học Tampere.
-                Tiếng Anh đã giúp mình tìm thấy sự nghiệp và gia đình tại Việt Nam, vì vậy mình rất yêu
-                thích việc giúp học viên mở rộng thế giới của mình thông qua việc học ngôn ngữ. Phong
-                cách giảng dạy của mình linh hoạt, thân thiện và luôn hướng đến việc sử dụng tiếng Anh
-                trong cuộc sống thật. Mình tin rằng việc học phải luôn vui vẻ và truyền cảm hứng, vì
-                thế tại Truespeak, mình muốn tạo ra một môi trường học tập an toàn, tích cực – nơi ai
-                cũng có thể thoải mái luyện nói và phát triển.
+                Xin chào! Mình là người Phần Lan, từng hoàn thành chương trình Thạc sĩ tại Đại học Tampere.
+                Nhờ tiếng Anh, mình đã tìm thấy mái ấm và gia đình tại Việt Nam – vì thế, việc giảng dạy
+                ngôn ngữ này không chỉ là nghề mà còn là đam mê của mình.
+
+                Mình tin rằng việc học ngoại ngữ cần phải vui vẻ, truyền cảm hứng và gắn liền với cuộc
+                sống thực tế. Phong cách dạy của mình linh hoạt, thân thiện và luôn khuyến khích học viên
+                tự tin giao tiếp trong môi trường tích cực.
+
+                Tại Truespeak, mình muốn tạo nên một không gian học an toàn và khích lệ – nơi bạn có thể
+                thoải mái luyện nói, sai cũng không sao, và quan trọng nhất: mỗi buổi học đều là một hành
+                trình mở rộng thế giới của chính bạn.
               </p>
             </div>
             <div className="col-md-4 text-center py-5 bg-warning rounded-top">
@@ -182,14 +185,17 @@ const Home = () => {
             <div className="col-md-8 px-5">
               <h2 style={{ color: '#014aad' }}>Gặp Hoàng Vũ</h2>
               <p>
-                Xin chào!
-                Mình là giáo viên tiếng Anh, từng tốt nghiệp Đại học LAB ở Phần Lan – nơi mình đã sống,
-                học và giảng dạy trong 5 năm. Quãng thời gian ở châu Âu giúp mình phát triển một
-                cách dạy tiếng Anh hiện đại và thực tế – tập trung vào giao tiếp thật chứ không chỉ học
-                sách vở. Mình có kinh nghiệm giảng dạy cho cả trẻ em và người lớn, giúp học
-                viên tự tin hơn khi giao tiếp tiếng Anh. Giờ đây trở về quê hương Đà Lạt, mình muốn tạo ra một
-                không gian học tập ấm áp, gần gũi và thú vị. Ở Truespeak, mình luôn dạy bằng tất cả sự tận
-                tâm, năng lượng và mong muốn đưa tiếng Anh trở thành một phần tự nhiên trong cuộc sống hàng ngày.
+                Xin chào! Mình là giáo viên tiếng Anh, từng sinh sống và giảng dạy 5 năm tại Phần Lan,
+                 nơi mình tốt nghiệp Đại học LAB. Trải nghiệm ở châu Âu đã định hình nên phong cách 
+                 giảng dạy của mình – hiện đại, thực tế và tập trung vào giao tiếp thực sự, thay vì chỉ học lý thuyết.
+
+                Mình từng dạy cả trẻ em và người lớn, và điều mình yêu thích nhất là thấy học viên tự
+                 tin hơn mỗi ngày khi sử dụng tiếng Anh. Giờ đây trở về Đà Lạt – quê hương của mình,
+                  mình muốn mang tinh thần học tập châu Âu đến gần hơn với người Việt, trong một không 
+                  gian ấm áp, gần gũi và đầy năng lượng.
+
+                Tại Truespeak, mỗi buổi học mình đều giảng dạy bằng tâm huyết, sự tận tâm và mong muốn 
+                rằng tiếng Anh sẽ trở thành một phần tự nhiên trong cuộc sống của bạn.
               </p>
             </div>
             <div className="col-md-4 text-center py-5 bg-warning rounded-bottom" >
@@ -267,15 +273,16 @@ const Home = () => {
           </div>
           <div className="col-md-6 p-5">
             <h2 style={{ color: '#014aad' }}>Bạn sẽ học được gì tại TrueSpeak</h2>
-            <p>Tại TrueSpeak English Hub, bạn sẽ học tiếng Anh theo cách thú vị,
-              linh hoạt và thiết thực. Dù bạn là người mới bắt đầu, muốn cải thiện
-              ngữ pháp và các kỹ năng, hay mong muốn luyện giao tiếp trong cuộc
-              sống hàng ngày, chúng tôi sẽ giúp bạn đạt được mục tiêu của mình.
-              Phương pháp giảng dạy của chúng tôi được lấy cảm hứng từ hệ thống
-              giáo dục Phần Lan nổi tiếng thế giới – chú trọng vào người học, tư duy
-              và khả năng sử dụng ngôn ngữ trong những tình huống thực tế. Chúng tôi kết
-              hợp kinh nghiệm thực tiễn với một môi trường học tập đầy sự quan tâm
-              và hỗ trợ, nơi học viên không chỉ phát triển tiếng Anh mà còn cả tư duy và sự tự tin.</p>
+            <p>Tại TrueSpeak English Hub, bạn học tiếng Anh theo cách thú vị, linh hoạt và đầy cảm hứng.
+              Chúng tôi không dạy bạn chỉ để thi cử, mà để sử dụng tiếng Anh tự tin trong đời sống thực
+              tế. Dù bạn là người mới bắt đầu, muốn củng cố ngữ pháp, hay luyện giao tiếp hàng ngày,
+              chương trình tại TrueSpeak đều được cá nhân hóa để phù hợp với nhu cầu riêng của bạn.
+
+              Phương pháp giảng dạy của chúng tôi được lấy cảm hứng từ nền giáo dục Phần Lan nổi tiếng –
+
+              chú trọng vào tư duy, sự chủ động và khả năng ứng dụng ngôn ngữ. Kết hợp giữa kinh nghiệm
+              thực tiễn và môi trường học thân thiện, TrueSpeak không chỉ giúp bạn giỏi tiếng Anh mà còn
+              phát triển sự tự tin, tư duy phản biện và khả năng học tập suốt đời.</p>
           </div>
         </div>
       </div>
