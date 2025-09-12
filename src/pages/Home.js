@@ -220,17 +220,17 @@ const Home = () => {
         <div className="row justify-content-center">
           {[
             {
-              title: 'Trẻ em (5–10)',
+              title: 'Trẻ em (8–12)',
               img: '/images/course-kids.jpg',
               time: '3 tháng · 2h/lớp · 2 buổi/tuần',
               price: '3.000.000đ/khóa học',
               benefits: ['Hoạt động vui nhộn', 'Tương tác với người bản xứ', 'Xây dựng sự tự tin khi giao tiếp'],
             },
             {
-              title: 'Trẻ vị thành niên (11–18)',
+              title: 'Trẻ vị thành niên (13–18)',
               img: '/images/course-teens.jpg',
               time: '3 tháng · 2h/lớp · 2 buổi/tuần',
-              price: '3.000.000đ/khóa học',
+              price: '3.500.000đ/khóa học',
               benefits: ['Xây dựng nền tảng cơ bản', 'Rèn luyện khả năng bày tỏ suy nghĩ', 'Chuẩn bị cho các kì thi (IELTS, TOEIC)'],
             },
             {
